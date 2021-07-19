@@ -1,0 +1,22 @@
+This mod is a copy of licensed models from Bohemia Interactive that has been licensed under ADPL-SA. These additional sets of roads when used with DayZ-Editor and DayZ-Editor-Loader will not cause texture issues with the baked roads throughout the map.
+
+There have been no attempts to test any of these models with any other mod that has the ability to place objects. Results may vary.
+
+Class-name prefix: rbldr_road easiest search for all usable roads.
+
+Changes were made to many models. Specifically how road-terrain behavior works, and Y axis values. No changes done to their default texture paths. There is also a config set up for them to be used. Crude change-log included.
+
+
+With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy,
+distribute or transmit) the material under the following conditions:
+
+• Attribution — You must attribute the material in the manner specified by the
+author or licensor (but not in any way that suggests that they endorse you or your
+use of the material).
+• Noncommercial — You may not use this material for any commercial purposes.
+• Arma and Dayz Only - You may not convert or adapt this material to be used in
+other games than Arma and Dayz.
+• Share Alike — If you adapt, or build upon this material, you may distribute the
+resulting material only under the same license.
+
+To view a copy of this license, visit https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa
