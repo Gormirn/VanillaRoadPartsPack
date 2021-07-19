@@ -7,8 +7,7 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{	
-			"DZ_Structures",
-			"DZ_Structures_Bliss"
+			"DZ_Data"
 		};
 	};
 };
