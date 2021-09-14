@@ -996,5 +996,20 @@ class CfgVehicles
 		scope=1;
 		model="VanillaRoadPartsPack\parts\asf4\asf4_60 10.p3d";
 	};
+	class rbldr_concrete_ground_small: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\miscterrain\concrete_ground_small.p3d";
+	};
+	class rbldr_concrete_ground_wide: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\miscterrain\concrete_ground_wide.p3d";
+	};
+	class rbldr_concrete_ground_large: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\miscterrain\concrete_ground_large.p3d";
+	};
 	// Testing models/textures, anything else.
 };
