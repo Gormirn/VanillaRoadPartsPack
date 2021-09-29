@@ -8,7 +8,7 @@ PixelShaderID = "Super";
 VertexShaderID = "Super";
 class Stage1
 {
-	texture = "dz\surfaces\data\terrain\cp_concrete1_nopx.paa";
+	texture = "VanillaRoadPartsPack\parts\miscterrain\cp_concrete1_nohq.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
