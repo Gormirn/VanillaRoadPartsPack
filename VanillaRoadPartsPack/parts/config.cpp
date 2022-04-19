@@ -11,9 +11,12 @@ class CfgPatches
 		};
 	};
 };
+
+
 class CfgVehicles
 {	//chernarus roads
 	class HouseNoDestruct;
+
 	class rbldr_road_asf1_0_2000: HouseNoDestruct
 	{
 		scope=1;
