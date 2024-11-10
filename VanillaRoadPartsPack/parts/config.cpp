@@ -1014,5 +1014,621 @@ class CfgVehicles
 		scope=1;
 		model="VanillaRoadPartsPack\parts\miscterrain\concrete_ground_large.p3d";
 	};
-	// Testing models/textures, anything else.
+	// Sakhal.
+	class rbldr_asf1_sakhal_dashedline_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_0 2000.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_1 1000.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_6.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_6konec.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_7 100.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_10 25.p3d";
+	};
+
+
+	class rbldr_asf1_sakhal_dashedline_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_10 50.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_10 75.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_10 100.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_12.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_15 75.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_20 50.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_25.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_30 25.p3d";
+	};
+	class rbldr_asf1_sakhal_dashedline_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_dashedline_60 10.p3d";
+	};
+
+//////
+	class rbldr_asf1_sakhal_fullline_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_10 25.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_1 1000.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_6.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_6konec.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_7 100.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_10 25.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_10 50.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_10 75.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_10 100.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_12.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_15 75.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_20 50.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_25.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_30 25.p3d";
+	};
+	class rbldr_asf1_sakhal_fullline_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf1sakhal_fullline_60 10.p3d";
+	};
+
+	//////
+	class rbldr_asf2_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_10 25.p3d";
+	};
+	class rbldr_asf2_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_1 1000.p3d";
+	};
+	class rbldr_asf2_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_6.p3d";
+	};
+	class rbldr_asf2_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_6konec.p3d";
+	};
+	class rbldr_asf2_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_7 100.p3d";
+	};
+	class rbldr_asf2_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_10 25.p3d";
+	};
+	class rbldr_asf2_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_10 50.p3d";
+	};
+	class rbldr_asf2_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_10 75.p3d";
+	};
+	class rbldr_asf2_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_10 100.p3d";
+	};
+	class rbldr_asf2_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_12.p3d";
+	};
+	class rbldr_asf2_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_15 75.p3d";
+	};
+	class rbldr_asf2_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_20 50.p3d";
+	};
+	class rbldr_asf2_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_25.p3d";
+	};
+	class rbldr_asf2_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_30 25.p3d";
+	};
+	class rbldr_asf2_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf2sakhal_60 10.p3d";
+	};
+	/////
+
+	class rbldr_asf3_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_10 25.p3d";
+	};
+	class rbldr_asf3_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_1 1000.p3d";
+	};
+	class rbldr_asf3_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_6.p3d";
+	};
+	class rbldr_asf3_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_6konec.p3d";
+	};
+	class rbldr_asf3_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_7 100.p3d";
+	};
+	class rbldr_asf3_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_10 25.p3d";
+	};
+	class rbldr_asf3_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_10 50.p3d";
+	};
+	class rbldr_asf3_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_10 75.p3d";
+	};
+	class rbldr_asf3_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_10 100.p3d";
+	};
+	class rbldr_asf3_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_12.p3d";
+	};
+	class rbldr_asf3_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_15 75.p3d";
+	};
+	class rbldr_asf3_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_20 50.p3d";
+	};
+	class rbldr_asf3_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_25.p3d";
+	};
+	class rbldr_asf3_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_30 25.p3d";
+	};
+	class rbldr_asf3_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\asf3sakhal_60 10.p3d";
+	};
+	/////
+
+	class rbldr_grav_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_10 25.p3d";
+	};
+	class rbldr_grav_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_1 1000.p3d";
+	};
+	class rbldr_grav_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_6.p3d";
+	};
+	class rbldr_grav_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_6konec.p3d";
+	};
+	class rbldr_grav_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_7 100.p3d";
+	};
+	class rbldr_grav_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_10 25.p3d";
+	};
+	class rbldr_grav_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_10 50.p3d";
+	};
+	class rbldr_grav_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_10 75.p3d";
+	};
+	class rbldr_grav_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_10 100.p3d";
+	};
+	class rbldr_grav_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_12.p3d";
+	};
+	class rbldr_grav_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_15 75.p3d";
+	};
+	class rbldr_grav_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_20 50.p3d";
+	};
+	class rbldr_grav_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_25.p3d";
+	};
+	class rbldr_grav_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_30 25.p3d";
+	};
+	class rbldr_grav_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\gravsakhal_60 10.p3d";
+	};
+
+	////
+
+	class rbldr_mud_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_10 25.p3d";
+	};
+	class rbldr_mud_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_1 1000.p3d";
+	};
+	class rbldr_mud_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_6.p3d";
+	};
+	class rbldr_mud_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_6konec.p3d";
+	};
+	class rbldr_mud_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_7 100.p3d";
+	};
+	class rbldr_mud_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_10 25.p3d";
+	};
+	class rbldr_mud_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_10 50.p3d";
+	};
+	class rbldr_mud_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_10 75.p3d";
+	};
+	class rbldr_mud_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_10 100.p3d";
+	};
+	class rbldr_mud_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_12.p3d";
+	};
+	class rbldr_mud_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_15 75.p3d";
+	};
+	class rbldr_mud_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_20 50.p3d";
+	};
+	class rbldr_mud_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_25.p3d";
+	};
+	class rbldr_mud_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_30 25.p3d";
+	};
+	class rbldr_mud_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\mudsakhal_60 10.p3d";
+	};
+	//////
+
+	class rbldr_quarry_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_10 25.p3d";
+	};
+	class rbldr_quarry_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_1 1000.p3d";
+	};
+	class rbldr_quarry_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_6.p3d";
+	};
+	class rbldr_quarry_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_6konec.p3d";
+	};
+	class rbldr_quarry_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_7 100.p3d";
+	};
+	class rbldr_quarry_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_10 25.p3d";
+	};
+	class rbldr_quarry_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_10 50.p3d";
+	};
+	class rbldr_quarry_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_10 75.p3d";
+	};
+	class rbldr_quarry_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_10 100.p3d";
+	};
+	class rbldr_quarry_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_12.p3d";
+	};
+	class rbldr_quarry_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_15 75.p3d";
+	};
+	class rbldr_quarry_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_20 50.p3d";
+	};
+	class rbldr_quarry_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_25.p3d";
+	};
+	class rbldr_quarry_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_30 25.p3d";
+	};
+	class rbldr_quarry_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_60 10.p3d";
+	};
+	////
+	class rbldr_snowroad_sakhal_0_2000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_10 25.p3d";
+	};
+	class rbldr_snowroad_sakhal_1_1000: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_1 1000.p3d";
+	};
+	class rbldr_snowroad_sakhal_6: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_6.p3d";
+	};
+	class rbldr_snowroad_sakhal_6konec: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_6konec.p3d";
+	};
+	class rbldr_snowroad_sakhal_7_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_7 100.p3d";
+	};
+	class rbldr_snowroad_sakhal_10_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroads_10 25.p3d";
+	};
+	class rbldr_snowroad_sakhal_10_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_10 50.p3d";
+	};
+	class rbldr_snowroad_sakhal_10_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_10 75.p3d";
+	};
+	class rbldr_snowroad_sakhal_10_100: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_10 100.p3d";
+	};
+	class rbldr_snowroad_sakhal_12: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_12.p3d";
+	};
+	class rbldr_snowroad_sakhal_15_75: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_15 75.p3d";
+	};
+	class rbldr_snowroad_sakhal_20_50: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_20 50.p3d";
+	};
+	class rbldr_snowroad_sakhal_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_25.p3d";
+	};
+	class rbldr_snowroad_sakhal_30_25: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_30 25.p3d";
+	};
+	class rbldr_snowroad_sakhal_60_10: HouseNoDestruct
+	{
+		scope=1;
+		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_60 10.p3d";
+	};
 };
