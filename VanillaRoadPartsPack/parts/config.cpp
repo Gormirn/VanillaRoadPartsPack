@@ -1555,7 +1555,8 @@ class CfgVehicles
 		scope=1;
 		model="VanillaRoadPartsPack\parts\Sakhal\quarrysakhal_60 10.p3d";
 	};
-	////
+	/// Snow roads dont work, re enable later
+	/*
 	class rbldr_snowroad_sakhal_0_2000: HouseNoDestruct
 	{
 		scope=1;
@@ -1630,5 +1631,5 @@ class CfgVehicles
 	{
 		scope=1;
 		model="VanillaRoadPartsPack\parts\Sakhal\snowroad_60 10.p3d";
-	};
+	}; */
 };
